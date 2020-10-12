@@ -5,4 +5,4 @@
 
 remove unstaged changes:
 
-  git checkout -- .
+git checkout -- .
