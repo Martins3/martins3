@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Martins3">
-    <img alt="img" src="./img/ma.png" height="160" />
+    <img alt="img" src="https://github.com/Martins3/Martins3.github.io/blob/master/docs/img/ma.png" height="160" />
     <img alt="img" src="https://raw.githubusercontent.com/shuveb/io_uring-by-example/master/public/tux.png" height="160" />
     <img alt="img" src="https://styles.redditmedia.com/t5_2ykcc/styles/image_widget_pifwg495jvr41.png" height="160" />
     <img alt="img" src="https://avatars2.githubusercontent.com/u/1407733?s=400&u=cea98fe5c7f9e3ecebdbfb0a0bd69b1d8f59ed7f&v=4" height="160" />
