@@ -4,6 +4,6 @@
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
-	<br>:book: I'am working on a type 1 hypervisor running x86 guest OS on Loongarch host.<br>
+	<br> I'm working on <a href=https://martins3.github.io/ppt/repo/2021-8-24/index.html> Bare Metal Binary Trnaslator</a>. Good luck to me!<br>
 </div>
 
